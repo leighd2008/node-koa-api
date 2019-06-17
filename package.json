@@ -11,14 +11,14 @@
   "license": "ISC",
   "devDependencies": {
     "chai": "4.1.1",
-    "chai-http": "^4.2.0",
+    "chai-http": "^4.3.0",
     "mocha": "^5.2.0"
   },
   "dependencies": {
-    "knex": "^0.13.0",
-    "koa": "^2.3.0",
-    "koa-bodyparser": "^4.2.0",
-    "koa-router": "^7.2.1",
-    "pg": "^7.1.2"
+    "knex": "^0.17.6",
+    "koa": "^2.7.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "pg": "^7.11.0"
   }
 }
